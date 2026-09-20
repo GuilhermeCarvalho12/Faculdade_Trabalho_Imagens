@@ -4,3 +4,27 @@ data_hora,tipos_de_alerta,arquivo_video
 2026-09-14 10:05:23,pessoa #25 em movimento rapido,eventos\evento_20260914_100522.mp4
 2026-09-14 10:25:03,keyboard #11 em movimento rapido,eventos\evento_20260914_102503.mp4
 2026-09-14 10:25:58,pessoa #8 em movimento rapido,eventos\evento_20260914_102558.mp4
+2026-09-15 09:19:30,keyboard #0 em movimento rapido,eventos\evento_20260915_091929.mp4
+2026-09-15 09:19:41,keyboard #3 parado ha 10s,eventos\evento_20260915_091941.mp4
+2026-09-15 09:20:20,keyboard #3 em movimento rapido,eventos\evento_20260915_092020.mp4
+2026-09-15 09:23:07,keyboard #0 parado ha 11s,eventos\evento_20260915_092307.mp4
+2026-09-15 09:23:18,pessoa #33 em movimento rapido,eventos\evento_20260915_092317.mp4
+2026-09-15 09:23:39,keyboard #60 parado ha 14s,eventos\evento_20260915_092338.mp4
+2026-09-15 09:24:06,keyboard #76 parado ha 13s,eventos\evento_20260915_092405.mp4
+2026-09-15 09:24:22,keyboard #76 parado ha 29s,eventos\evento_20260915_092421.mp4
+2026-09-15 09:24:29,keyboard #76 parado ha 36s,eventos\evento_20260915_092428.mp4
+2026-09-15 09:24:36,keyboard #76 parado ha 43s,eventos\evento_20260915_092436.mp4
+2026-09-15 09:32:48,keyboard #0 parado ha 11s; pessoa #1 parado ha 11s,eventos\evento_20260915_093248.mp4
+2026-09-15 09:32:56,keyboard #0 parado ha 19s,eventos\evento_20260915_093256.mp4
+2026-09-15 09:43:55,keyboard #12 em movimento rapido,eventos\evento_20260915_094354.mp4
+2026-09-15 09:44:10,keyboard #50 parado ha 10s,eventos\evento_20260915_094409.mp4
+2026-09-15 09:45:01,keyboard #261 parado ha 10s,eventos\evento_20260915_094500.mp4
+2026-09-15 09:45:13,pessoa #311 em movimento rapido,eventos\evento_20260915_094512.mp4
+2026-09-15 10:00:15,pessoa; bed,eventos\evento_20260915_100015.mp4
+2026-09-15 10:00:46,pessoa; pessoa; celular; pessoa; pessoa; pessoa,eventos\evento_20260915_100045.mp4
+2026-09-15 10:01:43,pessoa,eventos\evento_20260915_100142.mp4
+2026-09-15 10:05:35,pessoa; pessoa,eventos\evento_20260915_100535.mp4
+2026-09-15 10:06:05,pessoa; cadeira; bed; pessoa; pessoa,eventos\evento_20260915_100604.mp4
+2026-09-15 10:09:59,pessoa; pessoa,eventos\evento_20260915_100959.mp4
+2026-09-15 10:12:13,pessoa,eventos\evento_20260915_101213.mp4
+2026-09-15 10:12:52,pessoa; bed; pessoa; bed,eventos\evento_20260915_101252.mp4
