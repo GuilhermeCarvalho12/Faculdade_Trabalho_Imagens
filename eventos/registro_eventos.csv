@@ -28,3 +28,8 @@ data_hora,tipos_de_alerta,arquivo_video
 2026-09-15 10:09:59,pessoa; pessoa,eventos\evento_20260915_100959.mp4
 2026-09-15 10:12:13,pessoa,eventos\evento_20260915_101213.mp4
 2026-09-15 10:12:52,pessoa; bed; pessoa; bed,eventos\evento_20260915_101252.mp4
+2026-09-20 13:10:08,pessoa; pessoa,eventos\evento_20260920_131008.mp4
+2026-09-20 13:13:18,pessoa; celular; pessoa; pessoa; pessoa,eventos\evento_20260920_131317.mp4
+2026-09-20 13:14:29,pessoa,eventos\evento_20260920_131428.mp4
+2026-09-20 13:15:08,pessoa; pessoa,eventos\evento_20260920_131508.mp4
+2026-09-20 13:28:16,pessoa; pessoa; pessoa; celular; cadeira; pessoa; pessoa,eventos\evento_20260920_132816.mp4

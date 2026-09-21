@@ -1,0 +1,4 @@
+Bom dia(tarde)(noite) //
+
+O projeto não esta finalizado e apresenta travamentos e erros durante o modo segurança, detecção não esta inteligente e por a IA rodar a quase todo momento(todas as vezes que algo se mexe), o projeto não esta otimizado
+e com alguns travamentos, Que serão corrigidos e melhorados para a versão final!
